@@ -23,7 +23,7 @@
  | [Vitalii Leshchenko]( https://github.com/vitaliaventel) | Software Engineer | Java, JS, Salesforce | M.Tech | 4 | 5th |
  | [Kunwar Ashutosh Singh]( https://github.com/kunwar1513115) | Software Engineer | Java, JS, Angular | B.Tech | 4 | 5th |
  | [Jeam Seijas](https://github.com/yotogami300) | Student | Frontend dev and ciberSecurity | B. Tech. | 3 | 6th |
-
+ | [Jinal Patel(https://github.com/Jinal5) | IT Student | C/C++ | B.Tech | 4 | 5th |
  
  
 ### Don't forget to start this repo.
